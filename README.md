@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Łukasz Szymczyk</h1>
-<h3 align="center">Frontend web developer with a backend and mobile app experience in the past.</h3>
+<h3 align="center">I'm frontend web developer with a backend and mobile app experience in the past.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
